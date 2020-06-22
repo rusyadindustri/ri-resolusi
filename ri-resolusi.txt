@@ -4,5 +4,6 @@ RI RESOLUSI
 - Belajar web dari WPU secara berkala dan terstruktur
 - Belajar web front-end
   - pelajari git/github sebagai media penyimpanan
+  - dimulai dari javascrivt
 - mulai dari 0, sebuah jargon semangat dalam memualai semua trget cita cita
 - lebih dalam mencari info manfaat pengembangan dari web 
