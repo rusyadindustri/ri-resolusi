@@ -1,5 +1,8 @@
 RI RESOLUSI
 - Konsisten untuk terus belajar setiap hari
+  - mulai dari pukul 03.00 s/d 04.00
 - Belajar web dari WPU secara berkala dan terstruktur
 - Belajar web front-end
+  - pelajari git/github sebagai media penyimpanan
 - mulai dari 0, sebuah jargon semangat dalam memualai semua trget cita cita
+- lebih dalam mencari info manfaat pengembangan dari web 
