@@ -2,4 +2,6 @@ RI RESOLUSI
 - Konsisten untuk terus belajar setiap hari
 - Belajar web dari WPU secara berkala dan terstruktur
 - Belajar web front-end
+  - dimulai dari javascrivt
 - mulai dari 0, sebuah jargon semangat dalam memualai semua trget cita cita
+
